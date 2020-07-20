@@ -1,0 +1,2 @@
+  android:layout_marginLeft="10dp" vs
+  android:layout_marginStart="10dp"
